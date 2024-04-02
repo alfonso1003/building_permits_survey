@@ -1,0 +1,363 @@
+date,csa,cbsa,name,total,one_unit,two_units,three_and_four_units,five_units_or_more,num_of_structures_with_5_units_or_more,monthly_coverage_percent
+12-2007,,,"Abilene, TX",10,10,0,0,0,0,91
+12-2007,,,"Akron, OH",50,36,0,3,11,1,69
+12-2007,,,"Albany, GA",25,19,2,4,0,0,84
+12-2007,,,"Albany-Schenectady-Troy, NY",84,62,2,4,16,2,59
+12-2007,,,"Albuquerque, NM",164,164,0,0,0,0,100
+12-2007,,,"Alexandria, LA",30,30,0,0,0,0,97
+12-2007,,,"Allentown-Bethlehem-Easton, PA-NJ",146,131,0,0,15,2,100
+12-2007,,,"Altoona, PA",1,1,0,0,0,0,7
+12-2007,,,"Amarillo, TX",35,35,0,0,0,0,79
+12-2007,,,"Ames, IA",53,13,0,0,40,2,92
+12-2007,,,"Anchorage, AK",12,10,2,0,0,0,100
+12-2007,,,"Anderson, IN",8,8,0,0,0,0,73
+12-2007,,,"Anderson, SC",51,51,0,0,0,0,90
+12-2007,,,"Ann Arbor, MI",28,23,0,0,5,1,72
+12-2007,,,"Anniston-Oxford, AL",7,7,0,0,0,0,78
+12-2007,,,"Appleton, WI",14,14,0,0,0,0,79
+12-2007,,,"Asheville, NC",210,189,0,0,21,1,88
+12-2007,,,"Athens-Clarke County, GA",35,29,0,0,6,1,73
+12-2007,,,"Atlanta-Sandy Springs-Marietta, GA",1780,1153,2,31,594,26,100
+12-2007,,,"Atlantic City-Hammonton, NJ",70,50,2,0,18,1,100
+12-2007,,,"Auburn-Opelika, AL",50,50,0,0,0,0,100
+12-2007,,,"Augusta-Richmond County, GA-SC",446,112,2,0,332,17,80
+12-2007,,,"Austin-Round Rock, TX",1223,654,40,4,525,28,100
+12-2007,,,"Bakersfield, CA",184,135,6,35,8,1,90
+12-2007,,,"Baltimore-Towson, MD",616,242,0,0,374,8,100
+12-2007,,,"Bangor, ME",7,7,0,0,0,0,49
+12-2007,,,"Barnstable Town, MA",62,55,2,0,5,1,88
+12-2007,,,"Baton Rouge, LA",260,210,0,0,50,7,94
+12-2007,,,"Battle Creek, MI",1,1,0,0,0,0,55
+12-2007,,,"Bay City, MI",1,1,0,0,0,0,21
+12-2007,,,"Beaumont-Port Arthur, TX",21,21,0,0,0,0,76
+12-2007,,,"Bellingham, WA",35,19,0,0,16,1,69
+12-2007,,,"Bend, OR",67,63,0,4,0,0,100
+12-2007,,,"Billings, MT",36,36,0,0,0,0,90
+12-2007,,,"Binghamton, NY",1,1,0,0,0,0,18
+12-2007,,,"Birmingham-Hoover, AL",239,160,0,0,79,4,100
+12-2007,,,"Bismarck, ND",23,23,0,0,0,0,98
+12-2007,,,"Bloomington, IN",8,8,0,0,0,0,86
+12-2007,,,"Bloomington-Normal, IL",16,9,0,0,7,1,84
+12-2007,,,"Boise City-Nampa, ID",353,215,4,12,122,4,100
+12-2007,,,"Boston-Cambridge-Quincy, MA-NH",727,476,26,11,214,15,100
+12-2007,,,"Boulder, CO",37,11,0,0,26,2,78
+12-2007,,,"Bowling Green, KY",15,15,0,0,0,0,99
+12-2007,,,"Bradenton-Sarasota-Venice, FL",137,126,2,3,6,1,100
+12-2007,,,"Bremerton-Silverdale, WA",41,35,0,0,6,1,84
+12-2007,,,"Bridgeport-Stamford-Norwalk, CT",61,43,12,0,6,1,90
+12-2007,,,"Brownsville-Harlingen, TX",112,78,14,8,12,1,86
+12-2007,,,"Brunswick, GA",31,31,0,0,0,0,80
+12-2007,,,"Buffalo-Niagara Falls, NY",59,52,0,0,7,1,78
+12-2007,,,"Burlington, NC",61,61,0,0,0,0,92
+12-2007,,,"Burlington-South Burlington, VT",17,13,4,0,0,0,82
+12-2007,,,"Canton-Massillon, OH",28,23,0,0,5,1,82
+12-2007,,,"Cape Coral-Fort Myers, FL",69,63,0,0,6,1,100
+12-2007,,,"Carson City, NV",7,5,2,0,0,0,100
+12-2007,,,"Casper, WY",15,15,0,0,0,0,86
+12-2007,,,"Cedar Rapids, IA",21,19,2,0,0,0,86
+12-2007,,,"Champaign-Urbana, IL",69,13,0,0,56,7,66
+12-2007,,,"Charleston, WV",11,9,2,0,0,0,43
+12-2007,,,"Charleston-North Charleston-Summerville, SC",540,220,6,3,311,15,100
+12-2007,,,"Charlotte-Gastonia-Concord, NC-SC",821,652,2,28,139,15,100
+12-2007,,,"Charlottesville, VA",40,40,0,0,0,0,66
+12-2007,,,"Chattanooga, TN-GA",136,97,4,8,27,3,82
+12-2007,,,"Cheyenne, WY",14,14,0,0,0,0,100
+12-2007,,,"Chicago-Naperville-Joliet, IL-IN-WI",2115,675,34,58,1348,38,100
+12-2007,,,"Chico, CA",29,29,0,0,0,0,89
+12-2007,,,"Cincinnati-Middletown, OH-KY-IN",431,248,6,133,44,6,100
+12-2007,,,"Clarksville, TN-KY",38,30,4,4,0,0,54
+12-2007,,,"Cleveland, TN",23,21,2,0,0,0,81
+12-2007,,,"Cleveland-Elyria-Mentor, OH",237,186,2,12,37,5,100
+12-2007,,,"Coeur dAlene, ID",53,39,0,0,14,1,97
+12-2007,,,"College Station-Bryan, TX",270,46,0,0,224,20,98
+12-2007,,,"Colorado Springs, CO",164,116,0,0,48,1,100
+12-2007,,,"Columbia, MO",16,16,0,0,0,0,100
+12-2007,,,"Columbia, SC",265,209,0,9,47,2,100
+12-2007,,,"Columbus, GA-AL",82,54,0,3,25,2,88
+12-2007,,,"Columbus, IN",17,17,0,0,0,0,99
+12-2007,,,"Columbus, OH",402,201,4,16,181,12,100
+12-2007,,,"Corpus Christi, TX",134,55,2,12,65,2,89
+12-2007,,,"Corvallis, OR",2,2,0,0,0,0,69
+12-2007,,,"Cumberland, MD-WV",10,10,0,0,0,0,20
+12-2007,,,"Dallas-Fort Worth-Arlington, TX",2412,1332,28,80,972,15,100
+12-2007,,,"Dalton, GA",29,18,2,3,6,1,88
+12-2007,,,"Danville, IL",0,0,0,0,0,0,11
+12-2007,,,"Danville, VA",7,7,0,0,0,0,81
+12-2007,,,"Davenport-Moline-Rock Island, IA-IL",12,12,0,0,0,0,18
+12-2007,,,"Dayton, OH",55,53,2,0,0,0,83
+12-2007,,,"Decatur, AL",62,10,0,0,52,2,77
+12-2007,,,"Decatur, IL",3,3,0,0,0,0,67
+12-2007,,,"Deltona-Daytona Beach-Ormond Beach, FL",84,58,0,0,26,2,100
+12-2007,,,"Denver-Aurora, CO",1313,349,0,0,964,46,100
+12-2007,,,"Des Moines-West Des Moines, IA",194,171,2,0,21,2,100
+12-2007,,,"Detroit-Warren-Livonia, MI",172,164,2,0,6,1,100
+12-2007,,,"Dothan, AL",20,20,0,0,0,0,87
+12-2007,,,"Dover, DE",65,53,0,0,12,1,100
+12-2007,,,"Dubuque, IA",6,4,2,0,0,0,84
+12-2007,,,"Duluth, MN-WI",28,20,0,3,5,1,69
+12-2007,,,"Durham, NC",195,130,4,0,61,3,100
+12-2007,,,"Eau Claire, WI",17,15,2,0,0,0,92
+12-2007,,,"El Centro, CA",44,37,2,0,5,1,85
+12-2007,,,"El Paso, TX",115,99,0,11,5,1,90
+12-2007,,,"Elizabethtown, KY",16,16,0,0,0,0,59
+12-2007,,,"Elkhart-Goshen, IN",58,32,0,0,26,2,97
+12-2007,,,"Elmira, NY",1,1,0,0,0,0,20
+12-2007,,,"Erie, PA",44,8,0,0,36,3,57
+12-2007,,,"Eugene-Springfield, OR",112,52,0,0,60,4,100
+12-2007,,,"Evansville, IN-KY",32,27,0,0,5,1,88
+12-2007,,,"Fairbanks, AK",9,7,2,0,0,0,100
+12-2007,,,"Fargo, ND-MN",62,10,0,0,52,2,79
+12-2007,,,"Farmington, NM",15,15,0,0,0,0,100
+12-2007,,,"Fayetteville, NC",90,90,0,0,0,0,96
+12-2007,,,"Fayetteville-Springdale-Rogers, AR-MO",143,98,18,0,27,2,91
+12-2007,,,"Flagstaff, AZ",19,19,0,0,0,0,93
+12-2007,,,"Flint, MI",8,8,0,0,0,0,61
+12-2007,,,"Florence, SC",29,29,0,0,0,0,97
+12-2007,,,"Florence-Muscle Shoals, AL",25,23,2,0,0,0,94
+12-2007,,,"Fond du Lac, WI",6,6,0,0,0,0,56
+12-2007,,,"Fort Collins-Loveland, CO",57,39,0,0,18,3,100
+12-2007,,,"Fort Smith, AR-OK",35,35,0,0,0,0,90
+12-2007,,,"Fort Walton Beach-Crestview-Destin, FL",44,27,0,3,14,2,55
+12-2007,,,"Fort Wayne, IN",40,40,0,0,0,0,100
+12-2007,,,"Fresno, CA",161,128,30,3,0,0,76
+12-2007,,,"Gadsden, AL",5,5,0,0,0,0,62
+12-2007,,,"Gainesville, FL",121,55,2,0,64,3,99
+12-2007,,,"Gainesville, GA",35,30,0,0,5,1,82
+12-2007,,,"Glens Falls, NY",31,22,0,4,5,1,84
+12-2007,,,"Goldsboro, NC",22,22,0,0,0,0,83
+12-2007,,,"Grand Forks, ND-MN",0,0,0,0,0,0,988
+12-2007,,,"Grand Junction, CO",60,60,0,0,0,0,100
+12-2007,,,"Grand Rapids-Wyoming, MI",83,56,0,0,27,3,100
+12-2007,,,"Great Falls, MT",12,8,0,4,0,0,62
+12-2007,,,"Greeley, CO",59,59,0,0,0,0,100
+12-2007,,,"Green Bay, WI",74,64,0,0,10,1,80
+12-2007,,,"Greensboro-High Point, NC",202,170,0,0,32,2,100
+12-2007,,,"Greenville, NC",225,33,12,0,180,18,99
+12-2007,,,"Greenville, SC",493,205,0,0,288,17,100
+12-2007,,,"Gulfport-Biloxi, MS",180,132,28,0,20,3,96
+12-2007,,,"Hagerstown-Martinsburg, MD-WV",74,74,0,0,0,0,91
+12-2007,,,"Hanford-Corcoran, CA",25,20,0,0,5,1,82
+12-2007,,,"Harrisburg-Carlisle, PA",91,91,0,0,0,0,67
+12-2007,,,"Harrisonburg, VA",22,22,0,0,0,0,100
+12-2007,,,"Hartford-West Hartford-East Hartford, CT",127,81,0,0,46,5,84
+12-2007,,,"Hattiesburg, MS",62,24,2,36,0,0,80
+12-2007,,,"Hickory-Lenoir-Morganton, NC",66,64,2,0,0,0,97
+12-2007,,,"Hinesville-Fort Stewart, GA",3,3,0,0,0,0,35
+12-2007,,,"Holland-Grand Haven, MI",27,27,0,0,0,0,79
+12-2007,,,"Honolulu, HI",105,49,0,0,56,1,100
+12-2007,,,"Hot Springs, AR",5,5,0,0,0,0,100
+12-2007,,,"Houma-Bayou Cane-Thibodaux, LA",34,34,0,0,0,0,91
+12-2007,,,"Houston-Sugar Land-Baytown, TX",3716,1820,16,11,1869,80,100
+12-2007,,,"Huntington-Ashland, WV-KY-OH",9,4,0,0,5,1,0
+12-2007,,,"Huntsville, AL",327,123,0,0,204,10,98
+12-2007,,,"Idaho Falls, ID",106,54,0,4,48,2,99
+12-2007,,,"Indianapolis-Carmel, IN",409,343,22,0,44,4,100
+12-2007,,,"Iowa City, IA",18,18,0,0,0,0,94
+12-2007,,,"Ithaca, NY",7,2,0,0,5,1,65
+12-2007,,,"Jackson, MI",3,3,0,0,0,0,59
+12-2007,,,"Jackson, MS",112,112,0,0,0,0,93
+12-2007,,,"Jackson, TN",9,9,0,0,0,0,94
+12-2007,,,"Jacksonville, FL",618,352,8,8,250,11,100
+12-2007,,,"Jacksonville, NC",118,95,8,0,15,3,90
+12-2007,,,"Janesville, WI",23,14,0,0,9,1,83
+12-2007,,,"Jefferson City, MO",7,7,0,0,0,0,68
+12-2007,,,"Johnson City, TN",38,38,0,0,0,0,100
+12-2007,,,"Johnstown, PA",0,0,0,0,0,0,8
+12-2007,,,"Jonesboro, AR",58,58,0,0,0,0,93
+12-2007,,,"Joplin, MO",11,9,2,0,0,0,52
+12-2007,,,"Kalamazoo-Portage, MI",19,19,0,0,0,0,69
+12-2007,,,"Kankakee-Bradley, IL",4,4,0,0,0,0,23
+12-2007,,,"Kansas City, MO-KS",484,295,4,31,154,16,100
+12-2007,,,"Kennewick-Pasco-Richland, WA",42,42,0,0,0,0,90
+12-2007,,,"Killeen-Temple-Fort Hood, TX",247,195,52,0,0,0,83
+12-2007,,,"Kingsport-Bristol-Bristol, TN-VA",43,29,2,0,12,2,70
+12-2007,,,"Kingston, NY",92,11,0,0,81,3,50
+12-2007,,,"Knoxville, TN",229,157,0,0,72,3,83
+12-2007,,,"Kokomo, IN",4,4,0,0,0,0,57
+12-2007,,,"La Crosse, WI-MN",10,10,0,0,0,0,0
+12-2007,,,"Lafayette, IN",20,20,0,0,0,0,89
+12-2007,,,"Lafayette, LA",91,66,2,0,23,1,87
+12-2007,,,"Lake Charles, LA",59,59,0,0,0,0,67
+12-2007,,,"Lake Havasu City-Kingman, AZ",43,41,2,0,0,0,99
+12-2007,,,"Lakeland-Winter Haven, FL",226,201,0,0,25,4,100
+12-2007,,,"Lancaster, PA",47,42,0,0,5,1,58
+12-2007,,,"Lansing-East Lansing, MI",19,17,2,0,0,0,78
+12-2007,,,"Laredo, TX",88,64,0,8,16,1,100
+12-2007,,,"Las Cruces, NM",42,42,0,0,0,0,100
+12-2007,,,"Las Vegas-Paradise, NV",764,258,0,48,458,12,100
+12-2007,,,"Lawrence, KS",21,13,0,3,5,1,94
+12-2007,,,"Lawton, OK",42,38,4,0,0,0,80
+12-2007,,,"Lebanon, PA",22,22,0,0,0,0,91
+12-2007,,,"Lewiston, ID-WA",5,5,0,0,0,0,72
+12-2007,,,"Lewiston-Auburn, ME",6,6,0,0,0,0,74
+12-2007,,,"Lexington-Fayette, KY",104,100,0,4,0,0,97
+12-2007,,,"Lima, OH",1,1,0,0,0,0,20
+12-2007,,,"Lincoln, NE",43,43,0,0,0,0,88
+12-2007,,,"Little Rock-North Little Rock, AR",268,122,74,0,72,6,90
+12-2007,,,"Logan, UT-ID",13,10,0,3,0,0,6
+12-2007,,,"Longview, TX",21,21,0,0,0,0,78
+12-2007,,,"Longview, WA",28,28,0,0,0,0,77
+12-2007,,,"Los Angeles-Long Beach-Santa Ana, CA",1166,588,48,36,494,32,100
+12-2007,,,"Louisville-Jefferson County, KY-IN",284,210,2,0,72,6,100
+12-2007,,,"Lubbock, TX",177,49,0,0,128,10,92
+12-2007,,,"Lynchburg, VA",90,90,0,0,0,0,81
+12-2007,,,"Macon, GA",16,16,0,0,0,0,50
+12-2007,,,"Madera, CA",38,38,0,0,0,0,78
+12-2007,,,"Madison, WI",137,78,2,7,50,5,100
+12-2007,,,"Manchester-Nashua, NH",72,54,0,0,18,3,89
+12-2007,,,"Mansfield, OH",2,2,0,0,0,0,87
+12-2007,,,"McAllen-Edinburg-Mission, TX",480,331,2,16,131,8,100
+12-2007,,,"Medford, OR",29,29,0,0,0,0,100
+12-2007,,,"Memphis, TN-MS-AR",282,219,0,3,60,1,100
+12-2007,,,"Merced, CA",14,14,0,0,0,0,85
+12-2007,,,"Miami-Fort Lauderdale-Miami Beach, FL",847,382,24,11,430,17,100
+12-2007,,,"Michigan City-La Porte, IN",10,10,0,0,0,0,69
+12-2007,,,"Midland, TX",28,28,0,0,0,0,100
+12-2007,,,"Milwaukee-Waukesha-West Allis, WI",219,96,12,3,108,6,100
+12-2007,,,"Minneapolis-St. Paul-Bloomington, MN-WI",513,380,0,0,133,5,100
+12-2007,,,"Missoula, MT",25,25,0,0,0,0,100
+12-2007,,,"Mobile, AL",147,95,0,0,52,1,98
+12-2007,,,"Modesto, CA",64,39,8,0,17,1,92
+12-2007,,,"Monroe, LA",22,14,0,0,8,1,68
+12-2007,,,"Monroe, MI",11,11,0,0,0,0,56
+12-2007,,,"Montgomery, AL",28,28,0,0,0,0,96
+12-2007,,,"Morgantown, WV",25,1,0,0,24,1,23
+12-2007,,,"Morristown, TN",101,101,0,0,0,0,87
+12-2007,,,"Mount Vernon-Anacortes, WA",37,31,6,0,0,0,80
+12-2007,,,"Muncie, IN",3,3,0,0,0,0,78
+12-2007,,,"Muskegon-Norton Shores, MI",11,9,2,0,0,0,55
+12-2007,,,"Myrtle Beach-North Myrtle Beach-Conway, SC",334,199,0,0,135,9,100
+12-2007,,,"Napa, CA",27,21,0,0,6,1,86
+12-2007,,,"Naples-Marco Island, FL",126,67,0,3,56,8,100
+12-2007,,,"Nashville-Davidson--Murfreesboro, TN",612,456,24,0,132,6,100
+12-2007,,,"New Haven-Milford, CT",57,36,0,0,21,1,87
+12-2007,,,"New Orleans-Metairie-Kenner, LA",462,406,26,0,30,3,100
+12-2007,,,"New York-Northern New Jersey-Long Island, NY-NJ-PA",4294,769,288,365,2872,116,100
+12-2007,,,"Niles-Benton Harbor, MI",8,3,0,0,5,1,38
+12-2007,,,"Norwich-New London, CT",64,23,4,4,33,4,87
+12-2007,,,"Ocala, FL",135,112,2,21,0,0,100
+12-2007,,,"Ocean City, NJ",53,27,16,10,0,0,100
+12-2007,,,"Odessa, TX",14,14,0,0,0,0,100
+12-2007,,,"Ogden-Clearfield, UT",59,59,0,0,0,0,86
+12-2007,,,"Oklahoma City, OK",269,253,2,0,14,1,100
+12-2007,,,"Olympia, WA",35,35,0,0,0,0,93
+12-2007,,,"Omaha-Council Bluffs, NE-IA",271,107,4,0,160,10,100
+12-2007,,,"Orlando-Kissimmee, FL",978,499,0,0,479,12,100
+12-2007,,,"Oshkosh-Neenah, WI",22,22,0,0,0,0,87
+12-2007,,,"Owensboro, KY",19,19,0,0,0,0,96
+12-2007,,,"Oxnard-Thousand Oaks-Ventura, CA",238,37,0,4,197,16,97
+12-2007,,,"Palm Bay-Melbourne-Titusville, FL",300,108,0,0,192,8,100
+12-2007,,,"Palm Coast, FL",25,25,0,0,0,0,100
+12-2007,,,"Panama City-Lynn Haven, FL",25,23,2,0,0,0,98
+12-2007,,,"Parkersburg-Marietta-Vienna, WV-OH",8,8,0,0,0,0,0
+12-2007,,,"Pascagoula, MS",91,35,56,0,0,0,98
+12-2007,,,"Pensacola-Ferry Pass-Brent, FL",167,91,0,52,24,2,100
+12-2007,,,"Peoria, IL",35,27,0,0,8,1,50
+12-2007,,,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",1049,540,26,30,453,24,100
+12-2007,,,"Phoenix-Mesa-Scottsdale, AZ",1188,931,24,68,165,10,100
+12-2007,,,"Pine Bluff, AR",5,2,0,3,0,0,88
+12-2007,,,"Pittsburgh, PA",239,206,8,15,10,2,100
+12-2007,,,"Pittsfield, MA",0,0,0,0,0,0,9
+12-2007,,,"Pocatello, ID",15,11,4,0,0,0,93
+12-2007,,,"Port St. Lucie, FL",123,101,0,4,18,2,100
+12-2007,,,"Portland-South Portland-Biddeford, ME",113,94,6,3,10,2,88
+12-2007,,,"Portland-Vancouver-Beaverton, OR-WA",848,329,12,0,507,23,100
+12-2007,,,"Poughkeepsie-Newburgh-Middletown, NY",61,34,4,0,23,4,59
+12-2007,,,"Prescott, AZ",51,51,0,0,0,0,87
+12-2007,,,"Providence-New Bedford-Fall River, RI-MA",174,170,0,4,0,0,83
+12-2007,,,"Provo-Orem, UT",94,84,0,10,0,0,98
+12-2007,,,"Pueblo, CO",28,28,0,0,0,0,100
+12-2007,,,"Punta Gorda, FL",90,19,2,69,0,0,100
+12-2007,,,"Racine, WI",18,16,2,0,0,0,59
+12-2007,,,"Raleigh-Cary, NC",638,622,0,4,12,2,100
+12-2007,,,"Rapid City, SD",31,29,2,0,0,0,97
+12-2007,,,"Reading, PA",29,27,2,0,0,0,63
+12-2007,,,"Redding, CA",24,24,0,0,0,0,83
+12-2007,,,"Reno-Sparks, NV",100,100,0,0,0,0,100
+12-2007,,,"Richmond, VA",478,250,0,24,204,12,100
+12-2007,,,"Riverside-San Bernardino-Ontario, CA",934,796,6,0,132,7,100
+12-2007,,,"Roanoke, VA",41,41,0,0,0,0,96
+12-2007,,,"Rochester, MN",17,17,0,0,0,0,89
+12-2007,,,"Rochester, NY",83,59,12,12,0,0,62
+12-2007,,,"Rockford, IL",34,34,0,0,0,0,97
+12-2007,,,"Rocky Mount, NC",29,27,2,0,0,0,94
+12-2007,,,"Rome, GA",14,14,0,0,0,0,100
+12-2007,,,"Sacramento--Arden-Arcade--Roseville, CA",472,287,0,0,185,12,100
+12-2007,,,"Saginaw-Saginaw Township North, MI",2,2,0,0,0,0,49
+12-2007,,,"Salem, OR",36,36,0,0,0,0,74
+12-2007,,,"Salinas, CA",37,37,0,0,0,0,74
+12-2007,,,"Salisbury, MD",32,16,0,0,16,1,80
+12-2007,,,"Salt Lake City, UT",142,108,6,9,19,3,100
+12-2007,,,"San Angelo, TX",21,21,0,0,0,0,100
+12-2007,,,"San Antonio, TX",1099,463,14,8,614,28,100
+12-2007,,,"San Diego-Carlsbad-San Marcos, CA",581,172,12,15,382,15,100
+12-2007,,,"San Francisco-Oakland-Fremont, CA",1064,349,2,7,706,24,100
+12-2007,,,"San Jose-Sunnyvale-Santa Clara, CA",224,88,2,6,128,13,100
+12-2007,,,"San Luis Obispo-Paso Robles, CA",37,37,0,0,0,0,68
+12-2007,,,"Sandusky, OH",0,0,0,0,0,0,1
+12-2007,,,"Santa Barbara-Santa Maria, CA",31,31,0,0,0,0,64
+12-2007,,,"Santa Cruz-Watsonville, CA",7,7,0,0,0,0,51
+12-2007,,,"Santa Fe, NM",11,11,0,0,0,0,100
+12-2007,,,"Santa Rosa-Petaluma, CA",98,48,0,0,50,4,89
+12-2007,,,"Savannah, GA",90,86,0,4,0,0,81
+12-2007,,,"Scranton--Wilkes-Barre, PA",12,12,0,0,0,0,26
+12-2007,,,"Seattle-Tacoma-Bellevue, WA",1384,560,84,107,633,29,100
+12-2007,,,"Sebastian-Vero Beach, FL",53,53,0,0,0,0,100
+12-2007,,,"Sheboygan, WI",4,2,2,0,0,0,59
+12-2007,,,"Sherman-Denison, TX",0,0,0,0,0,0,4
+12-2007,,,"Shreveport-Bossier City, LA",164,76,88,0,0,0,94
+12-2007,,,"Sioux City, IA-NE-SD",8,8,0,0,0,0,98
+12-2007,,,"Sioux Falls, SD",74,60,6,8,0,0,82
+12-2007,,,"South Bend-Mishawaka, IN-MI",30,30,0,0,0,0,99
+12-2007,,,"Spartanburg, SC",67,67,0,0,0,0,94
+12-2007,,,"Spokane, WA",46,38,8,0,0,0,75
+12-2007,,,"Springfield, IL",13,9,4,0,0,0,54
+12-2007,,,"Springfield, MA",62,47,4,0,11,1,62
+12-2007,,,"Springfield, MO",153,59,0,0,94,5,78
+12-2007,,,"Springfield, OH",16,16,0,0,0,0,100
+12-2007,,,"St. Cloud, MN",16,11,0,0,5,1,74
+12-2007,,,"St. George, UT",64,64,0,0,0,0,96
+12-2007,,,"St. Joseph, MO-KS",2,2,0,0,0,0,50
+12-2007,,,"St. Louis, MO-IL",402,336,20,14,32,4,100
+12-2007,,,"State College, PA",32,32,0,0,0,0,69
+12-2007,,,"Stockton, CA",185,132,0,11,42,7,100
+12-2007,,,"Sumter, SC",23,23,0,0,0,0,100
+12-2007,,,"Syracuse, NY",17,17,0,0,0,0,63
+12-2007,,,"Tallahassee, FL",113,73,2,0,38,3,100
+12-2007,,,"Tampa-St. Petersburg-Clearwater, FL",887,427,6,12,442,12,100
+12-2007,,,"Terre Haute, IN",8,8,0,0,0,0,79
+12-2007,,,"Texarkana, TX-Texarkana, AR",3,3,0,0,0,0,100
+12-2007,,,"Toledo, OH",41,36,0,0,5,1,88
+12-2007,,,"Topeka, KS",176,32,0,0,144,12,86
+12-2007,,,"Trenton-Ewing, NJ",33,13,4,0,16,1,100
+12-2007,,,"Tucson, AZ",234,215,6,3,10,1,100
+12-2007,,,"Tulsa, OK",251,251,0,0,0,0,100
+12-2007,,,"Tuscaloosa, AL",147,45,0,0,102,6,94
+12-2007,,,"Tyler, TX",23,13,0,3,7,1,74
+12-2007,,,"Utica-Rome, NY",2,2,0,0,0,0,5
+12-2007,,,"Valdosta, GA",42,34,8,0,0,0,91
+12-2007,,,"Vallejo-Fairfield, CA",86,22,4,0,60,1,82
+12-2007,,,"Victoria, TX",5,5,0,0,0,0,60
+12-2007,,,"Vineland-Millville-Bridgeton, NJ",30,30,0,0,0,0,100
+12-2007,,,"Virginia Beach-Norfolk-Newport News, VA-NC",278,213,12,0,53,3,100
+12-2007,,,"Visalia-Porterville, CA",116,108,0,8,0,0,93
+12-2007,,,"Waco, TX",185,41,0,0,144,10,69
+12-2007,,,"Warner Robins, GA",22,22,0,0,0,0,70
+12-2007,,,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2341,706,0,3,1632,17,100
+12-2007,,,"Waterloo-Cedar Falls, IA",10,10,0,0,0,0,81
+12-2007,,,"Wausau, WI",9,9,0,0,0,0,67
+12-2007,,,"Weirton-Steubenville, WV-OH",1,1,0,0,0,0,0
+12-2007,,,"Wenatchee, WA",10,10,0,0,0,0,70
+12-2007,,,"Wheeling, WV-OH",0,0,0,0,0,0,57
+12-2007,,,"Wichita Falls, TX",9,7,2,0,0,0,75
+12-2007,,,"Wichita, KS",158,156,2,0,0,0,91
+12-2007,,,"Williamsport, PA",0,0,0,0,0,0,9
+12-2007,,,"Wilmington, NC",229,221,0,3,5,1,100
+12-2007,,,"Winchester, VA-WV",35,27,0,0,8,1,91
+12-2007,,,"Winston-Salem, NC",326,326,0,0,0,0,89
+12-2007,,,"Worcester, MA",83,81,2,0,0,0,72
+12-2007,,,"Yakima, WA",24,24,0,0,0,0,45
+12-2007,,,"York-Hanover, PA",78,72,0,0,6,1,79
+12-2007,,,"Youngstown-Warren-Boardman, OH-PA",25,25,0,0,0,0,97
+12-2007,,,"Yuba City, CA",28,28,0,0,0,0,95
+12-2007,,,"Yuma, AZ",62,36,2,0,24,3,91

@@ -1,0 +1,363 @@
+date,csa,cbsa,name,total,one_unit,two_units,three_and_four_units,five_units_or_more,num_of_structures_with_5_units_or_more,monthly_coverage_percent
+09-2008,,,"Abilene, TX",9,9,0,0,0,0,98
+09-2008,,,"Akron, OH",63,57,0,0,6,1,68
+09-2008,,,"Albany, GA",21,16,2,3,0,0,96
+09-2008,,,"Albany-Schenectady-Troy, NY",67,63,0,4,0,0,75
+09-2008,,,"Albuquerque, NM",163,127,0,3,33,1,100
+09-2008,,,"Alexandria, LA",26,26,0,0,0,0,99
+09-2008,,,"Allentown-Bethlehem-Easton, PA-NJ",144,144,0,0,0,0,100
+09-2008,,,"Altoona, PA",1,1,0,0,0,0,9
+09-2008,,,"Amarillo, TX",289,37,0,0,252,20,97
+09-2008,,,"Ames, IA",100,7,0,0,93,3,94
+09-2008,,,"Anchorage, AK",71,41,0,4,26,5,100
+09-2008,,,"Anderson, IN",6,6,0,0,0,0,64
+09-2008,,,"Anderson, SC",46,34,12,0,0,0,89
+09-2008,,,"Ann Arbor, MI",32,23,0,4,5,1,71
+09-2008,,,"Anniston-Oxford, AL",11,11,0,0,0,0,83
+09-2008,,,"Appleton, WI",44,36,8,0,0,0,81
+09-2008,,,"Asheville, NC",126,116,0,10,0,0,94
+09-2008,,,"Athens-Clarke County, GA",35,13,0,0,22,4,79
+09-2008,,,"Atlanta-Sandy Springs-Marietta, GA",1797,1144,4,4,645,18,100
+09-2008,,,"Atlantic City-Hammonton, NJ",49,42,2,0,5,1,100
+09-2008,,,"Auburn-Opelika, AL",74,68,2,4,0,0,100
+09-2008,,,"Augusta-Richmond County, GA-SC",130,130,0,0,0,0,75
+09-2008,,,"Austin-Round Rock, TX",830,702,18,4,106,2,100
+09-2008,,,"Bakersfield, CA",174,95,6,4,69,5,86
+09-2008,,,"Baltimore-Towson, MD",439,304,0,0,135,4,100
+09-2008,,,"Bangor, ME",14,14,0,0,0,0,53
+09-2008,,,"Barnstable Town, MA",28,28,0,0,0,0,87
+09-2008,,,"Baton Rouge, LA",156,156,0,0,0,0,93
+09-2008,,,"Battle Creek, MI",11,2,0,0,9,1,68
+09-2008,,,"Bay City, MI",1,1,0,0,0,0,17
+09-2008,,,"Beaumont-Port Arthur, TX",108,12,0,0,96,1,71
+09-2008,,,"Bellingham, WA",35,29,0,0,6,1,77
+09-2008,,,"Bend, OR",62,60,2,0,0,0,100
+09-2008,,,"Billings, MT",33,33,0,0,0,0,92
+09-2008,,,"Binghamton, NY",1,1,0,0,0,0,15
+09-2008,,,"Birmingham-Hoover, AL",193,180,0,0,13,1,100
+09-2008,,,"Bismarck, ND",143,83,0,0,60,2,98
+09-2008,,,"Bloomington, IN",39,27,2,0,10,1,85
+09-2008,,,"Bloomington-Normal, IL",110,55,0,0,55,7,86
+09-2008,,,"Boise City-Nampa, ID",168,152,4,12,0,0,100
+09-2008,,,"Boston-Cambridge-Quincy, MA-NH",604,330,20,25,229,17,100
+09-2008,,,"Boulder, CO",20,15,0,0,5,1,72
+09-2008,,,"Bowling Green, KY",40,28,0,0,12,1,99
+09-2008,,,"Bradenton-Sarasota-Venice, FL",113,102,6,0,5,1,100
+09-2008,,,"Bremerton-Silverdale, WA",42,42,0,0,0,0,79
+09-2008,,,"Bridgeport-Stamford-Norwalk, CT",132,49,2,0,81,1,89
+09-2008,,,"Brownsville-Harlingen, TX",74,52,14,8,0,0,83
+09-2008,,,"Brunswick, GA",29,29,0,0,0,0,82
+09-2008,,,"Buffalo-Niagara Falls, NY",70,65,0,0,5,1,78
+09-2008,,,"Burlington, NC",58,58,0,0,0,0,95
+09-2008,,,"Burlington-South Burlington, VT",57,20,2,0,35,1,86
+09-2008,,,"Canton-Massillon, OH",23,18,0,0,5,1,82
+09-2008,,,"Cape Coral-Fort Myers, FL",87,61,0,20,6,1,100
+09-2008,,,"Carson City, NV",0,0,0,0,0,0,100
+09-2008,,,"Casper, WY",16,16,0,0,0,0,85
+09-2008,,,"Cedar Rapids, IA",75,67,0,8,0,0,91
+09-2008,,,"Champaign-Urbana, IL",72,20,0,0,52,3,83
+09-2008,,,"Charleston, WV",23,18,0,0,5,1,47
+09-2008,,,"Charleston-North Charleston-Summerville, SC",294,220,2,0,72,5,100
+09-2008,,,"Charlotte-Gastonia-Concord, NC-SC",558,456,0,4,98,4,100
+09-2008,,,"Charlottesville, VA",54,54,0,0,0,0,70
+09-2008,,,"Chattanooga, TN-GA",96,84,2,0,10,1,75
+09-2008,,,"Cheyenne, WY",23,15,0,8,0,0,98
+09-2008,,,"Chicago-Naperville-Joliet, IL-IN-WI",968,671,8,42,247,20,100
+09-2008,,,"Chico, CA",46,46,0,0,0,0,82
+09-2008,,,"Cincinnati-Middletown, OH-KY-IN",312,244,0,3,65,7,100
+09-2008,,,"Clarksville, TN-KY",175,87,0,40,48,6,22
+09-2008,,,"Cleveland, TN",25,13,4,8,0,0,74
+09-2008,,,"Cleveland-Elyria-Mentor, OH",238,177,0,11,50,6,100
+09-2008,,,"Coeur dAlene, ID",51,32,2,0,17,1,99
+09-2008,,,"College Station-Bryan, TX",459,45,0,0,414,19,99
+09-2008,,,"Colorado Springs, CO",144,123,0,0,21,2,100
+09-2008,,,"Columbia, MO",24,20,4,0,0,0,100
+09-2008,,,"Columbia, SC",288,256,0,0,32,2,100
+09-2008,,,"Columbus, GA-AL",76,56,0,3,17,1,73
+09-2008,,,"Columbus, IN",20,20,0,0,0,0,99
+09-2008,,,"Columbus, OH",422,210,6,76,130,9,100
+09-2008,,,"Corpus Christi, TX",70,70,0,0,0,0,83
+09-2008,,,"Corvallis, OR",3,3,0,0,0,0,54
+09-2008,,,"Cumberland, MD-WV",9,9,0,0,0,0,5
+09-2008,,,"Dallas-Fort Worth-Arlington, TX",1802,1320,36,4,442,19,100
+09-2008,,,"Dalton, GA",25,17,0,3,5,1,95
+09-2008,,,"Danville, IL",0,0,0,0,0,0,4
+09-2008,,,"Danville, VA",6,6,0,0,0,0,55
+09-2008,,,"Davenport-Moline-Rock Island, IA-IL",50,29,0,4,17,3,18
+09-2008,,,"Dayton, OH",95,61,0,0,34,3,86
+09-2008,,,"Decatur, AL",8,8,0,0,0,0,67
+09-2008,,,"Decatur, IL",4,4,0,0,0,0,18
+09-2008,,,"Deltona-Daytona Beach-Ormond Beach, FL",85,65,6,0,14,1,100
+09-2008,,,"Denver-Aurora, CO",354,307,10,4,33,2,100
+09-2008,,,"Des Moines-West Des Moines, IA",156,148,8,0,0,0,100
+09-2008,,,"Detroit-Warren-Livonia, MI",281,180,18,70,13,2,100
+09-2008,,,"Dothan, AL",28,28,0,0,0,0,85
+09-2008,,,"Dover, DE",62,62,0,0,0,0,100
+09-2008,,,"Dubuque, IA",27,25,2,0,0,0,84
+09-2008,,,"Duluth, MN-WI",51,37,4,0,10,2,69
+09-2008,,,"Durham, NC",147,126,6,3,12,1,100
+09-2008,,,"Eau Claire, WI",70,54,16,0,0,0,91
+09-2008,,,"El Centro, CA",22,22,0,0,0,0,71
+09-2008,,,"El Paso, TX",415,155,0,0,260,12,96
+09-2008,,,"Elizabethtown, KY",27,17,2,0,8,1,62
+09-2008,,,"Elkhart-Goshen, IN",23,23,0,0,0,0,97
+09-2008,,,"Elmira, NY",1,1,0,0,0,0,11
+09-2008,,,"Erie, PA",75,25,0,0,50,3,74
+09-2008,,,"Eugene-Springfield, OR",87,46,2,0,39,2,100
+09-2008,,,"Evansville, IN-KY",43,29,0,4,10,2,89
+09-2008,,,"Fairbanks, AK",4,4,0,0,0,0,100
+09-2008,,,"Fargo, ND-MN",102,64,0,0,38,1,78
+09-2008,,,"Farmington, NM",23,19,0,4,0,0,100
+09-2008,,,"Fayetteville, NC",336,96,0,0,240,10,93
+09-2008,,,"Fayetteville-Springdale-Rogers, AR-MO",139,93,14,7,25,3,93
+09-2008,,,"Flagstaff, AZ",18,18,0,0,0,0,91
+09-2008,,,"Flint, MI",7,7,0,0,0,0,63
+09-2008,,,"Florence, SC",46,32,0,0,14,1,99
+09-2008,,,"Florence-Muscle Shoals, AL",19,14,0,0,5,1,88
+09-2008,,,"Fond du Lac, WI",2,2,0,0,0,0,44
+09-2008,,,"Fort Collins-Loveland, CO",264,80,0,16,168,7,100
+09-2008,,,"Fort Smith, AR-OK",73,35,18,20,0,0,92
+09-2008,,,"Fort Walton Beach-Crestview-Destin, FL",366,19,0,0,347,6,77
+09-2008,,,"Fort Wayne, IN",154,74,0,0,80,10,100
+09-2008,,,"Fresno, CA",194,114,0,0,80,7,81
+09-2008,,,"Gadsden, AL",10,5,0,0,5,1,62
+09-2008,,,"Gainesville, FL",57,30,0,0,27,2,99
+09-2008,,,"Gainesville, GA",13,13,0,0,0,0,94
+09-2008,,,"Glens Falls, NY",25,19,2,4,0,0,77
+09-2008,,,"Goldsboro, NC",21,21,0,0,0,0,79
+09-2008,,,"Grand Forks, ND-MN",71,15,0,0,56,2,221
+09-2008,,,"Grand Junction, CO",65,63,2,0,0,0,100
+09-2008,,,"Grand Rapids-Wyoming, MI",77,75,2,0,0,0,100
+09-2008,,,"Great Falls, MT",10,10,0,0,0,0,91
+09-2008,,,"Greeley, CO",47,36,0,0,11,1,100
+09-2008,,,"Green Bay, WI",75,61,0,3,11,1,80
+09-2008,,,"Greensboro-High Point, NC",159,122,0,12,25,3,100
+09-2008,,,"Greenville, NC",47,29,10,0,8,1,99
+09-2008,,,"Greenville, SC",163,153,0,0,10,2,100
+09-2008,,,"Gulfport-Biloxi, MS",175,75,28,0,72,2,93
+09-2008,,,"Hagerstown-Martinsburg, MD-WV",70,70,0,0,0,0,96
+09-2008,,,"Hanford-Corcoran, CA",14,14,0,0,0,0,78
+09-2008,,,"Harrisburg-Carlisle, PA",54,54,0,0,0,0,54
+09-2008,,,"Harrisonburg, VA",44,44,0,0,0,0,100
+09-2008,,,"Hartford-West Hartford-East Hartford, CT",120,85,2,0,33,4,88
+09-2008,,,"Hattiesburg, MS",1,1,0,0,0,0,92
+09-2008,,,"Hickory-Lenoir-Morganton, NC",65,65,0,0,0,0,98
+09-2008,,,"Hinesville-Fort Stewart, GA",6,6,0,0,0,0,68
+09-2008,,,"Holland-Grand Haven, MI",35,30,0,0,5,1,77
+09-2008,,,"Honolulu, HI",197,125,0,0,72,9,100
+09-2008,,,"Hot Springs, AR",4,4,0,0,0,0,97
+09-2008,,,"Houma-Bayou Cane-Thibodaux, LA",36,36,0,0,0,0,94
+09-2008,,,"Houston-Sugar Land-Baytown, TX",2742,1684,18,10,1030,38,100
+09-2008,,,"Huntington-Ashland, WV-KY-OH",3,3,0,0,0,0,8
+09-2008,,,"Huntsville, AL",142,142,0,0,0,0,98
+09-2008,,,"Idaho Falls, ID",88,41,0,0,47,1,97
+09-2008,,,"Indianapolis-Carmel, IN",358,348,0,10,0,0,100
+09-2008,,,"Iowa City, IA",85,73,0,0,12,1,94
+09-2008,,,"Ithaca, NY",8,3,0,0,5,1,58
+09-2008,,,"Jackson, MI",5,3,2,0,0,0,61
+09-2008,,,"Jackson, MS",105,105,0,0,0,0,94
+09-2008,,,"Jackson, TN",29,29,0,0,0,0,92
+09-2008,,,"Jacksonville, FL",528,456,16,0,56,3,100
+09-2008,,,"Jacksonville, NC",119,59,0,0,60,3,97
+09-2008,,,"Janesville, WI",11,11,0,0,0,0,79
+09-2008,,,"Jefferson City, MO",12,9,0,3,0,0,70
+09-2008,,,"Johnson City, TN",65,57,0,0,8,1,99
+09-2008,,,"Johnstown, PA",0,0,0,0,0,0,7
+09-2008,,,"Jonesboro, AR",69,69,0,0,0,0,92
+09-2008,,,"Joplin, MO",9,7,2,0,0,0,49
+09-2008,,,"Kalamazoo-Portage, MI",23,15,0,3,5,1,70
+09-2008,,,"Kankakee-Bradley, IL",5,5,0,0,0,0,30
+09-2008,,,"Kansas City, MO-KS",308,256,12,40,0,0,100
+09-2008,,,"Kennewick-Pasco-Richland, WA",67,59,0,0,8,1,89
+09-2008,,,"Killeen-Temple-Fort Hood, TX",137,133,4,0,0,0,81
+09-2008,,,"Kingsport-Bristol-Bristol, TN-VA",44,28,8,3,5,1,58
+09-2008,,,"Kingston, NY",28,18,10,0,0,0,70
+09-2008,,,"Knoxville, TN",175,165,0,0,10,1,84
+09-2008,,,"Kokomo, IN",3,3,0,0,0,0,79
+09-2008,,,"La Crosse, WI-MN",15,15,0,0,0,0,3
+09-2008,,,"Lafayette, IN",42,42,0,0,0,0,90
+09-2008,,,"Lafayette, LA",63,50,0,0,13,1,85
+09-2008,,,"Lake Charles, LA",56,26,4,3,23,1,83
+09-2008,,,"Lake Havasu City-Kingman, AZ",42,42,0,0,0,0,100
+09-2008,,,"Lakeland-Winter Haven, FL",121,119,2,0,0,0,100
+09-2008,,,"Lancaster, PA",78,64,0,0,14,1,63
+09-2008,,,"Lansing-East Lansing, MI",17,17,0,0,0,0,81
+09-2008,,,"Laredo, TX",70,53,0,3,14,1,100
+09-2008,,,"Las Cruces, NM",56,54,2,0,0,0,100
+09-2008,,,"Las Vegas-Paradise, NV",1050,481,0,15,554,21,100
+09-2008,,,"Lawrence, KS",26,26,0,0,0,0,96
+09-2008,,,"Lawton, OK",8,6,2,0,0,0,89
+09-2008,,,"Lebanon, PA",27,27,0,0,0,0,92
+09-2008,,,"Lewiston, ID-WA",3,1,2,0,0,0,55
+09-2008,,,"Lewiston-Auburn, ME",6,6,0,0,0,0,71
+09-2008,,,"Lexington-Fayette, KY",105,105,0,0,0,0,98
+09-2008,,,"Lima, OH",0,0,0,0,0,0,11
+09-2008,,,"Lincoln, NE",64,64,0,0,0,0,87
+09-2008,,,"Little Rock-North Little Rock, AR",139,139,0,0,0,0,91
+09-2008,,,"Logan, UT-ID",41,33,0,3,5,1,3
+09-2008,,,"Longview, TX",10,10,0,0,0,0,73
+09-2008,,,"Longview, WA",16,16,0,0,0,0,73
+09-2008,,,"Los Angeles-Long Beach-Santa Ana, CA",1147,335,56,6,750,40,100
+09-2008,,,"Louisville-Jefferson County, KY-IN",232,174,2,3,53,2,100
+09-2008,,,"Lubbock, TX",127,127,0,0,0,0,96
+09-2008,,,"Lynchburg, VA",52,52,0,0,0,0,86
+09-2008,,,"Macon, GA",11,11,0,0,0,0,54
+09-2008,,,"Madera, CA",15,11,4,0,0,0,89
+09-2008,,,"Madison, WI",247,82,4,0,161,4,100
+09-2008,,,"Manchester-Nashua, NH",76,34,6,0,36,1,91
+09-2008,,,"Mansfield, OH",9,9,0,0,0,0,74
+09-2008,,,"McAllen-Edinburg-Mission, TX",268,250,4,14,0,0,100
+09-2008,,,"Medford, OR",36,30,6,0,0,0,100
+09-2008,,,"Memphis, TN-MS-AR",260,171,44,0,45,2,100
+09-2008,,,"Merced, CA",4,4,0,0,0,0,81
+09-2008,,,"Miami-Fort Lauderdale-Miami Beach, FL",558,234,10,0,314,16,100
+09-2008,,,"Michigan City-La Porte, IN",11,11,0,0,0,0,68
+09-2008,,,"Midland, TX",29,29,0,0,0,0,100
+09-2008,,,"Milwaukee-Waukesha-West Allis, WI",293,95,12,12,174,5,100
+09-2008,,,"Minneapolis-St. Paul-Bloomington, MN-WI",824,397,2,11,414,7,100
+09-2008,,,"Missoula, MT",35,21,6,0,8,1,100
+09-2008,,,"Mobile, AL",68,66,2,0,0,0,95
+09-2008,,,"Modesto, CA",32,32,0,0,0,0,85
+09-2008,,,"Monroe, LA",25,17,0,3,5,1,85
+09-2008,,,"Monroe, MI",7,7,0,0,0,0,54
+09-2008,,,"Montgomery, AL",42,42,0,0,0,0,91
+09-2008,,,"Morgantown, WV",30,6,0,0,24,1,91
+09-2008,,,"Morristown, TN",36,32,4,0,0,0,80
+09-2008,,,"Mount Vernon-Anacortes, WA",25,25,0,0,0,0,83
+09-2008,,,"Muncie, IN",6,6,0,0,0,0,77
+09-2008,,,"Muskegon-Norton Shores, MI",5,5,0,0,0,0,60
+09-2008,,,"Myrtle Beach-North Myrtle Beach-Conway, SC",176,143,0,0,33,2,99
+09-2008,,,"Napa, CA",5,5,0,0,0,0,69
+09-2008,,,"Naples-Marco Island, FL",77,60,0,12,5,1,100
+09-2008,,,"Nashville-Davidson--Murfreesboro, TN",710,434,10,0,266,18,100
+09-2008,,,"New Haven-Milford, CT",74,52,0,0,22,3,85
+09-2008,,,"New Orleans-Metairie-Kenner, LA",852,159,44,361,288,29,100
+09-2008,,,"New York-Northern New Jersey-Long Island, NY-NJ-PA",2301,776,198,80,1247,58,100
+09-2008,,,"Niles-Benton Harbor, MI",6,6,0,0,0,0,35
+09-2008,,,"Norwich-New London, CT",25,23,2,0,0,0,94
+09-2008,,,"Ocala, FL",80,76,4,0,0,0,100
+09-2008,,,"Ocean City, NJ",32,24,8,0,0,0,100
+09-2008,,,"Odessa, TX",347,19,0,0,328,11,100
+09-2008,,,"Ogden-Clearfield, UT",93,74,0,7,12,1,84
+09-2008,,,"Oklahoma City, OK",347,319,8,4,16,1,100
+09-2008,,,"Olympia, WA",86,74,0,0,12,1,82
+09-2008,,,"Omaha-Council Bluffs, NE-IA",788,352,0,0,436,12,100
+09-2008,,,"Orlando-Kissimmee, FL",850,324,2,27,497,32,100
+09-2008,,,"Oshkosh-Neenah, WI",50,18,0,0,32,4,83
+09-2008,,,"Owensboro, KY",26,26,0,0,0,0,97
+09-2008,,,"Oxnard-Thousand Oaks-Ventura, CA",38,23,0,0,15,1,97
+09-2008,,,"Palm Bay-Melbourne-Titusville, FL",118,112,0,0,6,1,100
+09-2008,,,"Palm Coast, FL",22,22,0,0,0,0,100
+09-2008,,,"Panama City-Lynn Haven, FL",299,35,0,0,264,11,97
+09-2008,,,"Parkersburg-Marietta-Vienna, WV-OH",11,11,0,0,0,0,0
+09-2008,,,"Pascagoula, MS",40,28,0,0,12,1,98
+09-2008,,,"Pensacola-Ferry Pass-Brent, FL",173,77,4,0,92,1,100
+09-2008,,,"Peoria, IL",44,44,0,0,0,0,59
+09-2008,,,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",727,533,8,0,186,18,100
+09-2008,,,"Phoenix-Mesa-Scottsdale, AZ",1332,673,14,4,641,12,100
+09-2008,,,"Pine Bluff, AR",6,1,0,0,5,1,89
+09-2008,,,"Pittsburgh, PA",259,240,8,6,5,1,100
+09-2008,,,"Pittsfield, MA",2,2,0,0,0,0,19
+09-2008,,,"Pocatello, ID",13,13,0,0,0,0,92
+09-2008,,,"Port St. Lucie, FL",159,50,0,4,105,3,100
+09-2008,,,"Portland-South Portland-Biddeford, ME",99,92,2,0,5,1,89
+09-2008,,,"Portland-Vancouver-Beaverton, OR-WA",644,337,16,24,267,24,100
+09-2008,,,"Poughkeepsie-Newburgh-Middletown, NY",60,48,0,0,12,2,52
+09-2008,,,"Prescott, AZ",37,37,0,0,0,0,84
+09-2008,,,"Providence-New Bedford-Fall River, RI-MA",137,107,10,6,14,2,86
+09-2008,,,"Provo-Orem, UT",93,77,4,0,12,2,97
+09-2008,,,"Pueblo, CO",49,24,0,0,25,5,100
+09-2008,,,"Punta Gorda, FL",39,31,0,8,0,0,100
+09-2008,,,"Racine, WI",39,39,0,0,0,0,69
+09-2008,,,"Raleigh-Cary, NC",376,374,2,0,0,0,100
+09-2008,,,"Rapid City, SD",60,60,0,0,0,0,98
+09-2008,,,"Reading, PA",24,24,0,0,0,0,48
+09-2008,,,"Redding, CA",22,22,0,0,0,0,93
+09-2008,,,"Reno-Sparks, NV",62,62,0,0,0,0,100
+09-2008,,,"Richmond, VA",324,301,0,12,11,2,100
+09-2008,,,"Riverside-San Bernardino-Ontario, CA",500,362,4,7,127,7,100
+09-2008,,,"Roanoke, VA",43,43,0,0,0,0,97
+09-2008,,,"Rochester, MN",46,38,0,0,8,1,87
+09-2008,,,"Rochester, NY",113,86,4,12,11,2,62
+09-2008,,,"Rockford, IL",64,34,2,28,0,0,97
+09-2008,,,"Rocky Mount, NC",14,14,0,0,0,0,78
+09-2008,,,"Rome, GA",14,12,2,0,0,0,99
+09-2008,,,"Sacramento--Arden-Arcade--Roseville, CA",580,328,4,3,245,18,100
+09-2008,,,"Saginaw-Saginaw Township North, MI",11,11,0,0,0,0,40
+09-2008,,,"Salem, OR",39,31,0,0,8,1,85
+09-2008,,,"Salinas, CA",33,19,0,0,14,2,92
+09-2008,,,"Salisbury, MD",17,7,0,0,10,1,67
+09-2008,,,"Salt Lake City, UT",375,148,2,0,225,12,100
+09-2008,,,"San Angelo, TX",25,25,0,0,0,0,100
+09-2008,,,"San Antonio, TX",787,453,10,0,324,14,100
+09-2008,,,"San Diego-Carlsbad-San Marcos, CA",325,173,2,0,150,3,100
+09-2008,,,"San Francisco-Oakland-Fremont, CA",596,164,4,20,408,7,100
+09-2008,,,"San Jose-Sunnyvale-Santa Clara, CA",175,110,42,0,23,4,100
+09-2008,,,"San Luis Obispo-Paso Robles, CA",18,18,0,0,0,0,67
+09-2008,,,"Sandusky, OH",0,0,0,0,0,0,0
+09-2008,,,"Santa Barbara-Santa Maria, CA",29,15,2,0,12,2,71
+09-2008,,,"Santa Cruz-Watsonville, CA",6,6,0,0,0,0,64
+09-2008,,,"Santa Fe, NM",11,11,0,0,0,0,100
+09-2008,,,"Santa Rosa-Petaluma, CA",46,32,2,12,0,0,92
+09-2008,,,"Savannah, GA",212,102,0,3,107,10,87
+09-2008,,,"Scranton--Wilkes-Barre, PA",19,19,0,0,0,0,24
+09-2008,,,"Seattle-Tacoma-Bellevue, WA",1109,454,60,61,534,17,100
+09-2008,,,"Sebastian-Vero Beach, FL",57,57,0,0,0,0,100
+09-2008,,,"Sheboygan, WI",8,6,2,0,0,0,47
+09-2008,,,"Sherman-Denison, TX",1,1,0,0,0,0,2
+09-2008,,,"Shreveport-Bossier City, LA",78,78,0,0,0,0,98
+09-2008,,,"Sioux City, IA-NE-SD",11,9,2,0,0,0,96
+09-2008,,,"Sioux Falls, SD",199,54,6,32,107,4,88
+09-2008,,,"South Bend-Mishawaka, IN-MI",27,27,0,0,0,0,98
+09-2008,,,"Spartanburg, SC",68,68,0,0,0,0,94
+09-2008,,,"Spokane, WA",149,89,4,0,56,2,66
+09-2008,,,"Springfield, IL",19,15,4,0,0,0,53
+09-2008,,,"Springfield, MA",29,27,2,0,0,0,58
+09-2008,,,"Springfield, MO",132,40,12,0,80,2,83
+09-2008,,,"Springfield, OH",7,7,0,0,0,0,100
+09-2008,,,"St. Cloud, MN",38,33,0,0,5,1,74
+09-2008,,,"St. George, UT",44,44,0,0,0,0,96
+09-2008,,,"St. Joseph, MO-KS",7,7,0,0,0,0,0
+09-2008,,,"St. Louis, MO-IL",512,363,8,10,131,9,100
+09-2008,,,"State College, PA",26,14,0,0,12,1,62
+09-2008,,,"Stockton, CA",57,57,0,0,0,0,100
+09-2008,,,"Sumter, SC",18,18,0,0,0,0,100
+09-2008,,,"Syracuse, NY",65,65,0,0,0,0,61
+09-2008,,,"Tallahassee, FL",118,71,4,0,43,2,100
+09-2008,,,"Tampa-St. Petersburg-Clearwater, FL",858,449,2,0,407,15,100
+09-2008,,,"Terre Haute, IN",64,17,4,0,43,5,85
+09-2008,,,"Texarkana, TX-Texarkana, AR",6,4,2,0,0,0,100
+09-2008,,,"Toledo, OH",99,64,0,0,35,2,92
+09-2008,,,"Topeka, KS",46,38,0,8,0,0,90
+09-2008,,,"Trenton-Ewing, NJ",41,31,0,0,10,1,100
+09-2008,,,"Tucson, AZ",232,215,4,3,10,2,100
+09-2008,,,"Tulsa, OK",234,230,4,0,0,0,100
+09-2008,,,"Tuscaloosa, AL",86,31,0,0,55,3,93
+09-2008,,,"Tyler, TX",17,12,0,0,5,1,79
+09-2008,,,"Utica-Rome, NY",3,3,0,0,0,0,5
+09-2008,,,"Valdosta, GA",33,33,0,0,0,0,87
+09-2008,,,"Vallejo-Fairfield, CA",13,13,0,0,0,0,92
+09-2008,,,"Victoria, TX",4,4,0,0,0,0,55
+09-2008,,,"Vineland-Millville-Bridgeton, NJ",33,28,0,0,5,1,100
+09-2008,,,"Virginia Beach-Norfolk-Newport News, VA-NC",373,238,2,0,133,3,100
+09-2008,,,"Visalia-Porterville, CA",72,72,0,0,0,0,95
+09-2008,,,"Waco, TX",233,17,0,0,216,9,77
+09-2008,,,"Warner Robins, GA",44,44,0,0,0,0,82
+09-2008,,,"Washington-Arlington-Alexandria, DC-VA-MD-WV",995,679,2,16,298,11,100
+09-2008,,,"Waterloo-Cedar Falls, IA",38,38,0,0,0,0,82
+09-2008,,,"Wausau, WI",14,12,2,0,0,0,74
+09-2008,,,"Weirton-Steubenville, WV-OH",1,1,0,0,0,0,53
+09-2008,,,"Wenatchee, WA",33,17,0,16,0,0,72
+09-2008,,,"Wheeling, WV-OH",1,1,0,0,0,0,68
+09-2008,,,"Wichita Falls, TX",9,9,0,0,0,0,89
+09-2008,,,"Wichita, KS",341,147,2,0,192,8,88
+09-2008,,,"Williamsport, PA",2,2,0,0,0,0,16
+09-2008,,,"Wilmington, NC",297,291,0,0,6,1,100
+09-2008,,,"Winchester, VA-WV",18,18,0,0,0,0,84
+09-2008,,,"Winston-Salem, NC",127,127,0,0,0,0,90
+09-2008,,,"Worcester, MA",65,65,0,0,0,0,69
+09-2008,,,"Yakima, WA",21,21,0,0,0,0,40
+09-2008,,,"York-Hanover, PA",110,105,0,0,5,1,79
+09-2008,,,"Youngstown-Warren-Boardman, OH-PA",61,30,4,3,24,4,96
+09-2008,,,"Yuba City, CA",7,7,0,0,0,0,91
+09-2008,,,"Yuma, AZ",40,40,0,0,0,0,72
