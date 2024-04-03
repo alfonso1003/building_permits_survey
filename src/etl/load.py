@@ -1,41 +1,63 @@
+import csv
 from os import listdir
 from os.path import isfile, join
-import sqlite3
 
-import pandas as pd
+from sqlalchemy import create_engine
+from sqlalchemy.orm import sessionmaker
+from src.models.building_permits import Base, BuildingPermitSchema
 
-data_dir = "./data/clean"
-data_files = sorted([join(data_dir, f) for f in listdir(data_dir) if isfile(join(data_dir, f))])
 
-conn = sqlite3.connect('./db/realestate.db')
+class DataLoader:
+    def __init__(self, database_url, data_dir):
+        self.engine = create_engine(database_url)
+        self.data_dir = data_dir
+        self.data_files = self.get_data_files()
+        Base.metadata.create_all(self.engine)
+        self.session = sessionmaker(bind=self.engine)
 
-cursor = conn.cursor()
-cursor.execute("DROP TABLE IF EXISTS building_permits")
-conn.commit()
+    def get_data_files(self):
+        return sorted(
+            [
+                join(self.data_dir, f)
+                for f in listdir(self.data_dir)
+                if isfile(join(self.data_dir, f)) and f.endswith(".csv")
+            ]
+        )
 
-cursor.execute(
-    """
-    CREATE TABLE building_permits
-    (
-        id                                     INTEGER PRIMARY KEY,
-        date                                   TEXT,
-        csa                                    INTEGER,
-        cbsa                                   INTEGER,
-        name                                   VARCHAR(255),
-        total                                  INTEGER,
-        one_unit                               INTEGER,
-        two_units                              INTEGER,
-        three_and_four_units                   INTEGER,
-        five_units_or_more                     INTEGER,
-        num_of_structures_with_5_units_or_more INTEGER,
-        monthly_coverage_percent               INTEGER
-    ); 
-    """
-)
-conn.commit()
+    def load_data(self):
+        session = self.session()
+        schema = BuildingPermitSchema()
+        for data_file in self.data_files:
+            self.load_file_into_db(data_file, session, schema)
+        session.close()
 
-for data_file in data_files:
-    df = pd.read_csv(data_file, index_col=None)
-    df.to_sql("building_permits", con=conn, if_exists="append", index=None)
+    def load_file_into_db(self, data_file, session, schema):
+        with open(data_file, newline="", encoding="utf-8") as csvfile:
+            reader = csv.DictReader(csvfile)
+            nullable_int_columns = ["csa", "cbsa", "monthly_coverage_percent"]
 
-conn.close()
+            for row in reader:
+                try:
+                    for col in nullable_int_columns:
+                        if row[col] == "":
+                            row[col] = None
+                        else:
+                            row[col] = int(row[col]) if row[col].isdigit() else None
+
+                    permit = schema.load(row, session=session)
+                    session.add(permit)
+                except ValueError as ve:
+                    print(f"ValueError loading data: {ve}, in row: {row}")
+                except TypeError as te:
+                    print(f"ValidationError loading data: {te}, in row: {row}")
+                except Exception as e:  # pylint: disable=broad-except
+                    print(f"Unexpected error loading data: {e}, in row: {row['date']}")
+
+            session.commit()
+
+
+if __name__ == "__main__":
+    loader = DataLoader(
+        database_url="sqlite:///db/realestate.db", data_dir="./data/clean"
+    )
+    loader.load_data()
