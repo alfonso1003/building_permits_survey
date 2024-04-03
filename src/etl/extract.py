@@ -21,10 +21,10 @@ class DataExtractor:
         return url
 
     def find_file_format(self, year, month):
-        format = "txt"
+        file_format = "txt"
         if date(year, month, 1) >= self.excel_file_start:
-            format = "xls"
-        return format
+            file_format = "xls"
+        return file_format
 
     @staticmethod
     def download_file(url, output_file):
@@ -41,8 +41,8 @@ class DataExtractor:
                     continue
 
                 url = self.build_url(year, month)
-                format = self.find_file_format(year, month)
-                output_file = f"./data/raw/bps_unit_{year}_{month:02}.{format}"
+                file_format = self.find_file_format(year, month)
+                output_file = f"./data/raw/bps_unit_{year}_{month:02}.{file_format}"
                 self.download_file(url, output_file)
 
 
