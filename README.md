@@ -45,7 +45,8 @@ Currently, the ETL processes are executed individually through their respective 
 Data analysis can be performed using the provided IPython notebooks, which include various analyses such as autocorrelation studies of building permit issuances.
 
 ## Future Enhancements
-
+- **Airflow Integration**: Implement Apache Airflow to automate the ETL pipeline, enabling the project to run on a monthly schedule and ensure timely data processing and analysis.
+- **Refactor**: The `load.py` script is procedural and can be updated to use classes instead.
 - **Dockerization**: Containerize the application to streamline deployment and ensure consistency across development environments.
 - **Database Upgrade**: Transition from SQLite to PostgreSQL with the PostGIS extension to enhance data handling capabilities and facilitate spatial data analysis. Use Alembic to manage migrations.
 - **API Development**: Construct a RESTful API on top of the database to provide programmatic access to the data and analyses.
