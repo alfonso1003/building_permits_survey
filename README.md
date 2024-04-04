@@ -6,7 +6,7 @@ Welcome to the Building Permits ETL Project README. This project is centered aro
 
 The project is organized into three main components:
 
-- **Extract**: Manages the extraction of building permits data from source files, which range from text files (for data starting in 1994) to Excel files for more recent data.
+- **Extract**: Manages the extraction of building permits data from source files, which range from text files (for data starting in 2004) to Excel files for more recent data.
 - **Transform**: Handles the processing and cleaning of the extracted data, preparing it for loading by ensuring data integrity and consistency.
 - **Load**: Responsible for loading the cleaned and transformed data into a SQLite database, making it available for analysis and querying.
 
