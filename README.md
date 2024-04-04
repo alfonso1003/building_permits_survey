@@ -1,4 +1,4 @@
-# Building Permits ETL Project
+# Building Permits Project
 
 Welcome to the Building Permits ETL Project README. This project is centered around extracting, transforming, and loading (ETL) building permits data published by the US Census Bureau. With the use of Python and a suite of powerful libraries, this project aims to efficiently manage and analyze building permits data to provide insights into trends and patterns, particularly focusing on autocorrelation analyses to track building momentum across various Core Based Statistical Areas (CBSAs).
 
