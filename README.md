@@ -27,10 +27,13 @@ To set up the project on your local machine, follow these steps:
 
 1. Clone the project repository.
 2. Ensure Conda is installed on your system. If not, follow the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
-3. Navigate to the project directory and create a Conda environment using the `environment.yml` file.
-4. Activate the newly created environment:
-
+3. Navigate to the project directory and create a Conda environment using the `environment.yml` file:
+ ```bash
+   conda env create -f environment.yml
 ```
+5. Activate the newly created environment:
+
+```bash
 conda activate building_permits_env
 ```
 
