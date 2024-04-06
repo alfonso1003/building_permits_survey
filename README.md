@@ -4,13 +4,13 @@ Welcome to the Building Permits Project README. This project is centered around 
 
 ## Time Series Analysis
 
-This project focuses on analyzing and forecasting the number of building permits issued in various Metropolitan Statistical Areas (MSAs) using time series analysis techniques. The core of the analysis is based on ARIMA modeling, a popular method for forecasting time series data that can account for trends, cycles, and seasonality.
+This project focuses on analyzing and forecasting the number of building permits issued in various CBSAs using time series analysis techniques. The core of the analysis is based on ARIMA modeling, a popular method for forecasting time series data that can account for trends, cycles, and seasonality.
 
 ### Overview
 
 The analysis pipeline is structured as follows:
 
-1. **Data Retrieval**: We begin by fetching building permits data from a SQLite database. This data is filtered by the specified MSA to ensure the analysis is region-specific. The retrieved data includes the name of the MSA, the date of the permit issuance, and the total number of permits issued.
+1. **Data Retrieval**: We begin by fetching building permits data from a SQLite database. This data is filtered by the specified CBSA to ensure the analysis is region-specific. The retrieved data includes the name of the CBSA, the date of the permit issuance, and the total number of permits issued.
 
 2. **Data Preprocessing**: The data undergoes preprocessing where the date information is converted to a datetime format, and the date column is set as the index of the DataFrame. This step ensures that the time series data is in the correct format for analysis.
 
