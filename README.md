@@ -26,18 +26,7 @@ The analysis pipeline is structured as follows:
 
 This project applies time series analysis to predict the future issuance of building permits based on historical data. The ARIMA model, selected through a careful process of parameter tuning and diagnostics, provides a basis for the forecasts. The results offer valuable insights into future trends in building permits issuance, which can aid in planning and decision-making processes in related sectors.
 
-
-<p align="center">
-  <img src="assets/image.png" alt="alt text">
-</p>
-
-<p align="center">
-  <img src="assets/image-1.png" alt="alt text">
-</p>
-
-<p align="center">
-  <img src="assets/image-2.png" alt="alt text">
-</p>
+![ARIMA Forecast](assets/arima_forecast.png)
 
 ## Extract Transform Load (ETL)
 
