@@ -1,5 +1,7 @@
 # Building Permits
 
+Welcome to the Building Permits Project README. This project is centered around extracting, transforming, and loading (ETL) building permits data published by the US Census Bureau. With the use of Python and a suite of powerful libraries, this project aims to efficiently manage and analyze building permits data to provide insights into trends and patterns, particularly focusing on autocorrelation analyses to track building momentum across various Core Based Statistical Areas (CBSAs).
+
 ## Time Series Analysis
 
 This project focuses on analyzing and forecasting the number of building permits issued in various Metropolitan Statistical Areas (MSAs) using time series analysis techniques. The core of the analysis is based on ARIMA modeling, a popular method for forecasting time series data that can account for trends, cycles, and seasonality.
@@ -38,8 +40,6 @@ This project applies time series analysis to predict the future issuance of buil
 </p>
 
 ## Extract Transform Load (ETL)
-
-Welcome to the Building Permits ETL Project README. This project is centered around extracting, transforming, and loading (ETL) building permits data published by the US Census Bureau. With the use of Python and a suite of powerful libraries, this project aims to efficiently manage and analyze building permits data to provide insights into trends and patterns, particularly focusing on autocorrelation analyses to track building momentum across various Core Based Statistical Areas (CBSAs).
 
 ### Project Structure
 
