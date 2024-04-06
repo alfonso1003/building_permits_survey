@@ -1,8 +1,10 @@
-# Building Permits Time Series Analysis
+# Building Permits
+
+## Time Series Analysis
 
 This project focuses on analyzing and forecasting the number of building permits issued in various Metropolitan Statistical Areas (MSAs) using time series analysis techniques. The core of the analysis is based on ARIMA modeling, a popular method for forecasting time series data that can account for trends, cycles, and seasonality.
 
-## Overview
+### Overview
 
 The analysis pipeline is structured as follows:
 
@@ -20,8 +22,6 @@ The analysis pipeline is structured as follows:
 
 7. **Forecasting**: The final step involves using the selected ARIMA model to forecast future building permits issuance. The forecast includes not only the predicted values but also the confidence intervals, providing a measure of the uncertainty associated with the forecast.
 
-## Conclusion
-
 This project applies time series analysis to predict the future issuance of building permits based on historical data. The ARIMA model, selected through a careful process of parameter tuning and diagnostics, provides a basis for the forecasts. The results offer valuable insights into future trends in building permits issuance, which can aid in planning and decision-making processes in related sectors.
 
 
@@ -37,11 +37,11 @@ This project applies time series analysis to predict the future issuance of buil
   <img src="assets/image-2.png" alt="alt text">
 </p>
 
-# Building Permits – Extract Transform Load (ETL) Project
+## Extract Transform Load (ETL)
 
 Welcome to the Building Permits ETL Project README. This project is centered around extracting, transforming, and loading (ETL) building permits data published by the US Census Bureau. With the use of Python and a suite of powerful libraries, this project aims to efficiently manage and analyze building permits data to provide insights into trends and patterns, particularly focusing on autocorrelation analyses to track building momentum across various Core Based Statistical Areas (CBSAs).
 
-## Project Structure
+### Project Structure
 
 The project is organized into three main components:
 
@@ -51,7 +51,7 @@ The project is organized into three main components:
 
 Additionally, the project incorporates **Alembic** for database migration management, facilitating version control and schema updates for the database.
 
-## Key Technologies
+### Key Technologies
 
 - **Python**: The primary programming language used throughout the ETL processes.
 - **SQLAlchemy**: Provides a high-level ORM for database interactions in Python.
@@ -60,7 +60,7 @@ Additionally, the project incorporates **Alembic** for database migration manage
 - **Conda**: Acts as the package and environment manager, handling project dependencies.
 - **IPython Notebooks**: Utilized for data analysis, including conducting autocorrelation studies to examine building momentum within CBSAs.
 
-## Installation
+### Installation
 
 To set up the project on your local machine, follow these steps:
 
@@ -68,7 +68,7 @@ To set up the project on your local machine, follow these steps:
 2. Ensure Conda is installed on your system. If not, follow the instructions [here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/index.html).
 3. Navigate to the project directory and create a Conda environment using the `environment.yml` file:
  ```bash
-   conda env create -f environment.yml
+conda env create -f environment.yml
 ```
 5. Activate the newly created environment:
 
@@ -76,7 +76,7 @@ To set up the project on your local machine, follow these steps:
 conda activate building_permits_env
 ```
 
-## Usage
+### Usage
 
 Currently, the ETL processes are executed individually through their respective scripts:
 
@@ -86,7 +86,7 @@ Currently, the ETL processes are executed individually through their respective 
 
 Data analysis can be performed using the provided IPython notebooks, which include various analyses such as autocorrelation studies of building permit issuances.
 
-## Future Enhancements
+### Future Enhancements
 - **Airflow Integration**: Implement Apache Airflow to automate the ETL pipeline, enabling the project to run on a monthly schedule and ensure timely data processing and analysis.
 - **Refactor**: The `load.py` script is procedural and can be updated to use classes instead.
 - **Dockerization**: Containerize the application to streamline deployment and ensure consistency across development environments.
@@ -94,10 +94,10 @@ Data analysis can be performed using the provided IPython notebooks, which inclu
 - **API Development**: Construct a RESTful API on top of the database to provide programmatic access to the data and analyses.
 - **Frontend Development**: Develop a frontend interface with analytics features to offer visual insights into the building permits data, making the data more accessible and interpretable.
 
-## Contributing
+### Contributing
 
 Contributions are welcome! Please feel free to fork the repository, make changes, and submit a pull request with your enhancements.
 
-## License
+### License
 
-This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt) file for details.
